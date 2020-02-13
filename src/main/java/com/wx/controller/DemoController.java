@@ -17,7 +17,10 @@ public class DemoController {
 		list.add("阿偲");
 		list.add("17");
 		list.add("傻瓜");
+		//sdafasdf
+		System.out.println("输出");
 		return list;
+
 	}
 	
 }
