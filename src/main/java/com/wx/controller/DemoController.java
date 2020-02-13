@@ -16,7 +16,7 @@ public class DemoController {
 		List<String> list=new ArrayList<String>();
 		list.add("阿偲");
 		list.add("17");
-		dfsaf
+
 		System.out.println("输出");
 		list.add("傻瓜");
 		//sdafasdf
